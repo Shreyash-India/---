@@ -11,7 +11,7 @@
 
 ## App Design
 
-![1640960422952](https://user-images.githubusercontent.com/78295521/147828177-7a66be79-d7a6-4993-aaa4-268147d88dba.jpg)
+![news_img](https://user-images.githubusercontent.com/78295521/147829179-07c0af46-b187-4472-8d84-70a2323d1455.jpg)
 
 
 ## Infrence                                                                                                                         
