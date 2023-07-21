@@ -17,7 +17,7 @@
 ## Infrence                                                                                                                         
 &#10686; News app built in flutter which uses news api for fetching current breaking news.
 
-&#10686; It is a news application with over 7 Category of news Display and a webview functionality.
+&#10686; It is a news application with over 7 varied Category of Breaking News Display and a webview functionality.
 ## Documentation
 
 &#10686; [Flutter](https://flutter.dev/)
